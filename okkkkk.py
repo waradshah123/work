@@ -1,6 +1,6 @@
 name = input("enter ur name:")
 
-print(f"assalam o alaikum!{name}, nice to meet you , lets have some fun with numbers")
+print(f"assalam o alaikum! {name}, nice to meet you , lets have some fun with numbers")
 
 numbers = []
 for i in range(1, 4):
